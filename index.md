@@ -2,12 +2,6 @@
 
 Resources for urban research that explore, architecture, urbanism, and authoratitve forces that shape the built environment at CCNY CUNY.
 
-Instructor: Carlo Bailey [cbailey1@ccny.cuny.edu](mailto:cbailey1@ccny.cuny.edu)  
-
-Collaborators: Shawn Rickenbackerh, Namon Freeman 
-
-Location: Remote (for now)  
-
 ### Learning Objectives
 
 This site is intended to help students:
