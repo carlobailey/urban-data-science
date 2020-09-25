@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Urban Data Science & Analytics at CCNY
 
-You can use the [editor on GitHub](https://github.com/carlobailey/urban-data-science/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Resources for urban research that explore, architecture, urbanism, and authoratitve forces that shape the built environment at CCNY CUNY.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Instructor: Carlo Bailey [cbailey1@ccny.cuny.edu](mailto:cbailey1@ccny.cuny.edu)  
+Collaborators: Shawn Rickenbackerh, Namon Freeman 
+Location: Remote (for now) 
 
-### Markdown
+### Learning Objectives
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This site is intended to help students:
 
-```markdown
-Syntax highlighted code block
+- Learn the foundations of geospatial data (key concepts + how to interact with it)
+- Learn how to download, explore and visualize opensource urban data
+- Gain fluency with mapping and other data visualization techniques
+- To ask basic questions of data and how to interpret results
 
-# Header 1
-## Header 2
-### Header 3
+### Technology
 
-- Bulleted
-- List
+Resources are focused around:
+- Python programming
+- Pandas
+- Geopandas
+- Kepler GL
+- Tableau
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carlobailey/urban-data-science/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This page is maintained by [Carlo Bailey](https://carlobailey.com/), feel free to reach out
