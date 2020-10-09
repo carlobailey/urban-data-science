@@ -25,3 +25,15 @@ Once you have the two files loaded into Tableau, click on the two overlapping ci
 Notice the red exclamation mark on the overlapping circles, this means that there is a mismatch in column data types. To fix this select the small circle above the left side of the **Zipcode** column along the bottom pane and hit **String**.
 
 <img src="img/column_dtype.png" alt="list" width="900"/>
+
+
+### Step 4: Create metric to visualize
+Once your data is loaded, joined, and ready to go, click the orange **Sheet 1** tab at the bottom of the window. We will now create our first metric – the average proportion of residential space per zipcode. Click **Analysis** -> **Create Calculated Field**.
+
+<img src="img/tableau_analysis.png" alt="list" width="900"/>
+
+In the dialog box that appears, name the calculation **retail %** and type the following into the box (Tableau has autocomplete). To finish click OK.
+
+<img src="img/calc_field.png" alt="list" width="900"/>
+
+### Step 5: Plot and configure data on a map
