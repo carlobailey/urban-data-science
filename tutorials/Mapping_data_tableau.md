@@ -12,6 +12,16 @@ For the purposes of this example, we will visualize the PLUTO data at zip code l
 
 
 ### Step 3: Merging data in Tableau
-Next we will combine the two datsets we previously downloaded in Tableau. When you open Tableau the left pane has various buttons for connecting to different data types: as we are working with zip code geometries (in Geo JSON format), click the **Spatial file** button. Locate the **us_zipcodes.geojson** file and click open.
+Next we will combine the two datasets we previously downloaded in Tableau. When you open Tableau the left pane has various buttons for connecting to different data types: as we are working with zip code geometries (in Geo JSON format), click the **Spatial file** button. Locate the **us_zipcodes.geojson** file and click open.
 
-<img src="img/open_spatial_file.png" alt="list" width="500"/>
+<img src="img/open_spatial_file.png" alt="list" width="900"/>
+
+Then in the left pane click **Add** -> **Text file** and locate locate and open the **pluto_20v6.csv** file.
+
+Once you have the two files loaded into Tableau, click on the two overlapping circles in between the two tables (this is how you tell Tableau which columns to join on). Click the dropdown under **Data Source** and then select the **Regio Id** column, and then click the dropdown under **pluto_20v6.csv** and select the **Zipcode** column.
+
+<img src="img/config_join.png" alt="list" width="900"/>
+
+Notice the red exclamation mark on the overlapping circles, this means that there is a mismatch in column data types. To fix this select the small circle above the left side of the **Zipcode** column along the bottom pane and hit **String**.
+
+<img src="img/column_dtype.png" alt="list" width="900"/>
