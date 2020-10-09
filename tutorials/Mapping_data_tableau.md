@@ -11,4 +11,7 @@ We will begin by heading to the NYC Planning website to get the [PLUTO data](htt
 For the purposes of this example, we will visualize the PLUTO data at zip code level. To do this we will need zip code geometries. Use [this link](https://drive.google.com/file/d/16b3l5_JwUNwr4T9nqoBjKLB30miB6i2-/view?usp=sharing) to download zip codes for the entire US (the file is ~1.4GB).
 
 
-### Step 3: Visualization in Tableau
+### Step 3: Merging data in Tableau
+Next we will combine the two datsets we previously downloaded in Tableau. When you open Tableau the left pane has various buttons for connecting to different data types: as we are working with zip code geometries (in Geo JSON format), click the **Spatial file** button. Locate the **us_zipcodes.geojson** file and click open.
+
+<img src="img/open_spatial_file.png" alt="list" width="500"/>
