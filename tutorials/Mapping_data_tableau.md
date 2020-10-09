@@ -20,7 +20,7 @@ Then in the left pane click **Add** -> **Text file** and locate locate and open 
 
 Once you have the two files loaded into Tableau, click on the two overlapping circles in between the two tables (this is how you tell Tableau which columns to join on). Click the dropdown under **Data Source** and then select the **Regio Id** column, and then click the dropdown under **pluto_20v6.csv** and select the **Zipcode** column.
 
-<img src="img/config_join.png" alt="list" width="900"/>
+<img src="img/config_join.png" alt="list" width="600"/>
 
 Notice the red exclamation mark on the overlapping circles, this means that there is a mismatch in column data types. To fix this select the small circle above the left side of the **Zipcode** column along the bottom pane and hit **String**.
 
@@ -34,6 +34,9 @@ Once your data is loaded, joined, and ready to go, click the orange **Sheet 1** 
 
 In the dialog box that appears, name the calculation **retail %** and type the following into the box (Tableau has autocomplete). To finish click OK.
 
-<img src="img/calc_field.png" alt="list" width="900"/>
+<img src="img/calc_field.png" alt="list" width="600"/>
 
 ### Step 5: Plot and configure data on a map
+To load the zip code geometries onto a map click **Geometry** in the left pane under **Measures**. You should then see zip codes for NYC load. Then to create a choropleth, drag the **retail %** button onto the **Color** button as indicated below.
+
+<img src="img/init_map.png" alt="list" width="900"/>
