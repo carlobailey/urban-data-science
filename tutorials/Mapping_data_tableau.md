@@ -40,3 +40,7 @@ In the dialog box that appears, name the calculation **retail %** and type the f
 To load the zip code geometries onto a map click **Geometry** in the left pane under **Measures**. You should then see zip codes for NYC load. Then to create a choropleth, drag the **retail %** button onto the **Color** button as indicated below.
 
 <img src="img/init_map.png" alt="list" width="900"/>
+
+Editing the colors on the map is as easy as clicking the dropdown arrow above the color legend on the right hand side of the map. You can also add or configure various map layers by going to **Map** -> **Map Layers** and selecting the buttons in the left hand pane.
+
+You can export images by either printing them as a pdf or export them as a png. 
