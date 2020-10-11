@@ -32,16 +32,16 @@ During the semester, students are encouraged to scour the internet for other ope
 
 ## Material
 
-### [Tutorial-1: Downloading and mapping census data (Python)](https://nbviewer.jupyter.org/github/carlobailey/urban-data-science/blob/gh-pages/tutorials/Mapping_Census_Data.ipynb)
+### [Tutorial-1: Downloading and mapping census data with Python](https://nbviewer.jupyter.org/github/carlobailey/urban-data-science/blob/gh-pages/tutorials/Mapping_Census_Data.ipynb)
 This example goes through how to interact with the Census API to download data on US households across space and time. We will go through the steps of obtaining household income and educational attainment data and then use the Geopandas library to visualize the data in Brooklyn, NY.
 
-### [Tutorial-2: Downloading and mapping census data (Tableau)](tutorials/Mapping_data_tableau.md)
+### [Tutorial-2: Downloading and mapping property data with Tableau](tutorials/Mapping_data_tableau.md)
 This tutorial shows how to download tax lot data from the NYC Planning department site, aggregate the average residential floor area per zipcode, and then create a choropleth map in Tableau.
 
-### Tutorial-3: Creating web-based (bivariate) 3D maps (Kepler GL + Python)
+### Tutorial-3: Analyzing geospatial data with Python
 Coming soon...
 
-### Tutorial-4: How to describe a dataset (descriptive statistics)
+### Tutorial-4: Creating web-based (bivariate) 3D maps (Kepler GL + Python)
 Coming soon...
 
 ### Tutorial-5: Analyzing data with Tableau
