@@ -1,0 +1,51 @@
+## Urban Data Science & Analytics at CCNY
+
+Resources for urban research that explore, architecture, urbanism, and authoritative forces that shape the built environment at CCNY CUNY.
+
+------
+<br/><br/>
+
+### Learning Objectives
+This site is intended to help students:
+- Learn how to download, explore and visualize opensource urban data
+- Gain fluency with mapping and other data visualization techniques
+- Ask basic questions of data and how to interpret results
+
+### Technology
+Resources are focused around:
+- Python & Jupyter Notebooks – for coding
+- Pandas - for data analytics
+- Geopandas – for spatial analytics
+- Kepler GL - for mapping
+- Tableau - for general data visaulization and analysis
+
+
+### Computing Resources
+Students are assumed to have access to a personal computer, ideally a laptop, to follow along with the below tutorials and in-class workshops. You will need to download and install both [Tableau](https://www.tableau.com/academic/students) and [Python](https://realpython.com/installing-python/) in order to complete tutorials (I recommend installing Python through the [Microsoft Store](https://realpython.com/installing-python/#how-to-install-from-the-microsoft-store) if using Windows and installing via [Homebrew](https://realpython.com/installing-python/#how-to-install-from-homebrew) if using a Mac). Once you have Python setup on your system, install [Jupyter Notebooks](https://jupyter.org/install) as we will be using it for a lot of the analytical work. Please contact the instructor directly with any issues or questions related to hardware/software.
+
+During the semester, students are encouraged to scour the internet for other opensource resources on urban analytics. A couple of good ones:
+- [Methods in Spatial Research](https://github.com/CenterForSpatialResearch/methods-in-spatial-research-sp2020), from GSAPP's Center for Spatial Research. A deep dive into using QGis.
+- [Urban Data Science](https://github.com/gboeing/urban-data-science), from UC Berkley. For those interested in more advanced applications.
+
+------
+<br/><br/>
+
+## Material
+
+### [Tutorial-1: Downloading and mapping census data with Python](https://nbviewer.jupyter.org/github/carlobailey/urban-data-science/blob/gh-pages/tutorials/Mapping_Census_Data.ipynb)
+This example goes through how to interact with the Census API to download data on US households across space and time. We will go through the steps of obtaining household income and educational attainment data and then use the Geopandas library to visualize the data in Brooklyn, NY.
+
+### [Tutorial-2: Downloading and mapping property data with Tableau](tutorials/Mapping_data_tableau.md)
+This tutorial shows how to download tax lot data from the NYC Planning department site, aggregate the average residential floor area per zipcode, and then create a choropleth map in Tableau.
+
+### Tutorial-3: Analyzing geospatial data with Python
+Coming soon...
+
+### Tutorial-4: Creating web-based (bivariate) 3D maps (Kepler GL + Python)
+Coming soon...
+
+### Tutorial-5: Analyzing data with Tableau
+Coming soon...
+
+### Tutorial-6: Analyzing the relationships between datasets (correlation)
+Coming soon...
