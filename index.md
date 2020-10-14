@@ -38,14 +38,17 @@ This example goes through how to interact with the Census API to download data o
 ### [Tutorial-2: Downloading and mapping property data with Tableau](tutorials/Mapping_data_tableau.md)
 This tutorial shows how to download tax lot data from the NYC Planning department site, aggregate the average residential floor area per zipcode, and then create a choropleth map in Tableau.
 
-### Tutorial-3: Analyzing geospatial data with Python
-Coming soon...
+### [Tutorial-3: Analyzing geospatial (parks) data with Python](https://nbviewer.jupyter.org/github/carlobailey/urban-data-science/blob/gh-pages/tutorials/analyzing_geospatial_data.ipynb)
+This tutorial demonstrates how to work with geospatial data in python. Through exploring the relationship between a neighborhood's income level and total park area, you will learn how to utilize geopandas and the scipy libraries to aggregate and surface simple stats at the zip code level.
 
-### Tutorial-4: Creating web-based (bivariate) 3D maps (Kepler GL + Python)
-Coming soon...
+### [Tutorial-4: Analyzing geospatial (property value) data with Python](https://nbviewer.jupyter.org/github/carlobailey/urban-data-science/blob/master/tutorials/Analyzing_geospatial_data_poi.ipynb)
+This tutorial extends some of the initial spatial analytics work we did in the previous tutorial by looking at more granular techniques to surface insights from geospatial data. Specifically, it demonstrates how to explore the relationship between NYC property values and proximity to cultural institutions.
 
 ### Tutorial-5: Analyzing data with Tableau
 Coming soon...
 
-### Tutorial-6: Analyzing the relationships between datasets (correlation)
+### Tutorial-6: Creating web-based (bivariate) 3D maps (Kepler GL + Python)
+Coming soon...
+
+### Tutorial-7: Analyzing the relationships between datasets (correlation)
 Coming soon...
