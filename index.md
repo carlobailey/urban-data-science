@@ -52,3 +52,22 @@ Coming soon...
 
 ### Tutorial-7: Analyzing the relationships between datasets (correlation)
 Coming soon...
+
+------
+<br/><br/>
+
+## Datasets
+
+Below are a links to free and open datasets, sorted by subject area, that you may choose to use within your own research. This list is non-exhaustive and students are encouraged to seek out other sources if these do not align with your research agenda.
+
+### Health
+- [CDC data portal](https://ephtracking.cdc.gov/DataExplorer/#/): National Environmental Public Health Tracking Network
+
+### Transportation
+- [Bureau of Transportation Statistics](https://www.bts.gov/latch/latch-data)
+
+### Points of Interest
+- [SNAP Location](https://github.com/jshannon75/snap_retailers)
+
+### Demographic
+- [US CENSUS (ACS)](https://data.census.gov/cedsci/)
