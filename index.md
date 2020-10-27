@@ -46,6 +46,7 @@ This tutorial extends some of the initial spatial analytics work we did in the p
 
 ### Tutorial-5: Analyzing data with Tableau
 Coming soon...
+This tutorial demonstrates how to analyze US obesity rates in relation to other socioeconomic indicators like commuting and food access patterns. We will explore data in the top 500 US metro areas and use Tableau to map and generate insights.
 
 ### Tutorial-6: Creating web-based (bivariate) 3D maps (Kepler GL + Python)
 Coming soon...
